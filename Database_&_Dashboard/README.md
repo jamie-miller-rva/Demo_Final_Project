@@ -1,9 +1,10 @@
 # Database & Dashboard Branch
 
 ## Data
-* IMDB Sentiment Analysis from https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format?resource=download
+
 * IMDB top 1000 movies from https://www.kaggle.com/datasets/omarhanyy/imdb-top-1000
 
+* Saved to S3 bucket on AWS at: <br> https://movie-data-for-machine-learning.s3.us-east-2.amazonaws.com/imdb_top_1000.csv
 
 ## Database
 * AWS RDS PostgreSQL instance created at endpoint <br>movie-analysis-db.cserxumknism.us-east-1.rds.amazonaws.com
